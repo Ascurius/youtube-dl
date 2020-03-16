@@ -778,6 +778,7 @@ from .nytimes import (
     NYTimesArticleIE,
 )
 from .nuvid import NuvidIE
+from .nxload import NXLoadIE
 from .nzz import NZZIE
 from .odatv import OdaTVIE
 from .odnoklassniki import OdnoklassnikiIE
